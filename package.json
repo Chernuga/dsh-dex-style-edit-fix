@@ -31,11 +31,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XylaAlyx/dsh-plugin-dex-style-edit.git"
+    "url": "git+https://github.com/Chernuga/dsh-dex-style-edit-fix.git"
   },
-  "homepage": "https://github.com/XylaAlyx/dsh-plugin-dex-style-edit#readme",
+  "homepage": "https://github.com/Chernuga/dsh-dex-style-edit-fix#readme",
   "bugs": {
-    "url": "https://github.com/XylaAlyx/dsh-plugin-dex-style-edit/issues"
+    "url": "https://github.com/Chernuga/dsh-dex-style-edit-fix/issues"
   },
   "dsh": {
     "bundle": {

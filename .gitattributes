@@ -1,0 +1,3 @@
+# Keep the shipped source byte-identical across platforms: this package is
+# plain ESM with no build step, and the client bundle is published as-is.
+* text=auto eol=lf
